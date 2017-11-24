@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, ‘8.0’
+source 'git@git.coding.net:lzbcoder/LZBSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+target 'LZBWeChat' do
+  
+
+  # use_frameworks!
+
+  # Pods for LZBWeChat
+
+    pod 'Masonry', '~> 1.0.2'
+    pod 'LZBWXMainElement'
+    
+end

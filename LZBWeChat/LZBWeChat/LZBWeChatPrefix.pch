@@ -1,0 +1,15 @@
+//
+//  LZBWeChatPrefix.pch
+//  LZBWeChat
+//
+//  Created by zibin on 2017/11/24.
+//  Copyright © 2017年 Apple. All rights reserved.
+//
+
+#ifndef LZBWeChatPrefix_h
+#define LZBWeChatPrefix_h
+
+//组件
+#import <LZBWXMainElement/WXMainPublicAPI.h>
+
+#endif /* LZBWeChatPrefix_h */
